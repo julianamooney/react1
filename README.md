@@ -1,11 +1,8 @@
-# My Porject
+# react project template
 
-This is my project.
+React Project Template with automated build.
 
-## Instalation
+## Installation
 
-## Usage
-
-## credits
-
-## License
+1. Install Node.js
+2. Install git.
